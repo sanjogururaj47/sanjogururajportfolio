@@ -7,23 +7,24 @@ const Aboutme = () => {
       <Title text="About Me" icon={<SiInformatica />} />
       <div className="text-lg tracking-wide flex flex-col gap-6">
         <p>
-          I am a web developer with 4+ years of experience in React. I have a
-          strong foundation in front-end & back-end development and am skilled
-          in creating user-friendly and responsive web applications using React
-          and its ecosystem. I have experience working on a variety of projects,
-          including building and maintaining single page applications,
-          integrating with REST APIs, and implementing responsive design
-          principles. I am also proficient in using tools such as Webpack, npm,
-          and Git for development and deployment. In addition to my technical
-          skills, I am a strong communicator and team player. I am able to work
-          effectively with cross-functional teams and am comfortable taking on
-          new challenges and learning new technologies as needed.
+          Employed as a Computer Engineer. Freelance as a Full Stack Developer. Curious about AI and its applications. Passionate about all three.<br /> 
+          With over 2+ years of experience in Software Engineering, I'm proficient in frameworks for web development and building small to medium scale
+          software.
         </p>
         <p>
-          I am always looking to improve my skills and stay up-to-date with the
-          latest best practices in web development. I am excited to continue
-          growing as a developer and making meaningful contributions to projects
-          and teams.
+          Recent Activity: <br />
+            - Built a language learning iOS and Web app which sparked interest with YCombinator. <br />
+            - Built a soccer event tracking app, currenly being used by the head coach of The University of Arkansas Soccer team. <br />
+            - Working on Simulation Software for the Mars Ascent Vehicle at NASA. <br />
+        </p>
+        <p>
+          But enough about software; life is about balance. Outside of "work" (which I do not consider work), I love playing sports and staying active. <br />
+          I generally play soccer, golf, and enjoy biking. I also love cars. <br />
+          I enjoy reading books which spark my curiousity, currently reading "Skin In The Game" by Nassim Taleb and "Zero to One" by Peter Thiel.
+        </p>
+        <p>
+          Always looking to learn the next thing, staying on the bleeding edge of technology. <br />
+          Ideally, I would look down on myself from yesterday from having learned so much in one day.
         </p>
       </div>
     </div>

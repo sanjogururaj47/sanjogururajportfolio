@@ -16,12 +16,10 @@ const Banner = () => {
       <div className="w-3/4 flex flex-col items-center md:items-start    gap-2">
         <h1 className="text-5xl font-bold text-white">Sanjog Gururaj</h1>
         <h3 className="text-xl md:text-2xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-blue-300 via-red-300 to-indigo-300 tracking-wide">
-          Full Stack Developer | AI Enthusiast
+          Computer Engineer | Full Stack Developer | AI Enthusiast
         </h3>
         <p className="text-base tracking-wide text-center md:text-left">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, cum
-          consequuntur soluta explicabo saepe voluptate atque accusantium quasi
-          perspiciatis, quos quaerat odit voluptatem, debitis culpa!
+          Curious about everything. Only know somethings. Will learn anything.
         </p>
       </div>
     </div>
