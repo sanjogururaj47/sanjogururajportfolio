@@ -5,7 +5,7 @@ const Banner = () => {
   return (
     <div className="wrapper flex flex-col md:flex-row items-center gap-10">
       {/* Image */}
-      <div className="w-44 h-44 rounded-full bg-black shadow-white hover:scale-110 transition-all duration-500 cursor-pointer">
+      <div className="w-44 h-44 rounded-full bg-black shadow dark:shadow-white hover:scale-110 transition-all duration-500 cursor-pointer">
         <Image
           className="w-full h-full rounded-full object-cover"
           src={ProfileImg}
