@@ -65,7 +65,7 @@ const Experience = () => {
           <li>
             <hr />
             <div className="timeline-middle">
-              <img src={UARK.src} alt="UARK Logo" className="h-20 w-25 hover:scale-110 transition-all duration-500 cursor-pointer"/>
+              <img src={UARK.src} alt="UARK Logo" className="h-20 w-20 hover:scale-110 transition-all duration-500 cursor-pointer"/>
             </div>
             <div className="timeline-end mb-10">
               <time className="font-mono italic">2022</time>
