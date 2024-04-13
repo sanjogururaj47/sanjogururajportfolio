@@ -1,11 +1,8 @@
 import { FaProjectDiagram } from "react-icons/fa";
 import Title from "./Title";
-import amazonClone from "../public/img/projects/amazonClone.webp";
-import cyberBlog from "../public/img/projects/cyberBlog.webp";
+import flolang from "../public/img/projects/flolang.jpg";
+import soccerEventTracker from "../public/img/projects/soccer-event-tracker.jpg";
 import noorShop from "../public/img/projects/noorShop.webp";
-import dynamicPortfolio from "../public/img/projects/dynamicPortfolio.png";
-import reactBD from "../public/img/projects/reactBD.png";
-import dashboard from "../public/img/projects/dashboard.webp";
 import Image from "next/image";
 import ProjectCard from "./ProjectCard";
 
@@ -15,35 +12,14 @@ const Projects = () => {
       <Title text="Projects" icon={<FaProjectDiagram />} />
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 place-items-center">
         <ProjectCard
-          img={amazonClone.src}
-          title="Amazon Clone"
-          link="https://amazonclone.reactbd.com/"
+          img={flolang.src}
+          title="Flolang"
+          link="https://www.youtube.com/watch?v=tLor2nkTwSo"
         />
         <ProjectCard
-          img={reactBD.src}
-          title="Cyber Security"
-          link="https://reactbd.com/"
-        />
-        <ProjectCard
-          img={cyberBlog.src}
-          title="Cyber Security"
-          link="https://blog.reactbd.com/"
-        />
-        <ProjectCard
-          img={noorShop.src}
-          title="Noor Shopping"
-          link="https://orebishopping.reactbd.com/"
-        />
-        <ProjectCard
-          img={dynamicPortfolio.src}
-          title="Dynamic Portfolio"
-          link="https://amazonclone.reactbd.com/"
-        />
-
-        <ProjectCard
-          img={dashboard.src}
-          title="Dashboard"
-          link="https://orebishopping.reactbd.com/"
+          img={soccerEventTracker.src}
+          title="Soccer Event Tracker"
+          link="https://soccer-event-tracker-uark.web.app"
         />
       </div>
     </div>
