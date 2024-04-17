@@ -19,7 +19,7 @@ const Aboutme = () => {
         </p>
         <p>
           But enough about software; life is about balance. Outside of "work" (which I do not consider work), I love playing sports and staying active. <br />
-          I generally play soccer, golf, and enjoy biking. I also love cars. <br />
+          I generally play soccer, golf, and enjoy biking. I also love cars (and my gf!). <br />
           I enjoy reading books which spark my curiousity, currently reading "Skin In The Game" by Nassim Taleb and "Zero to One" by Peter Thiel.
         </p>
         <p>
