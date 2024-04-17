@@ -10,7 +10,7 @@ const Contact = () => {
           Always open to discussions, recommendations, or criticism.
         </p>
         <a href="mailto:sanjog.gururaj2@gmail.com">
-          <button className="btn btn-wide btn-outline btn-accent btn-lg">Send me an e-mail!</button>
+          <button className="bg-emerald-700 hover:bg-emerald-400 text-white font-bold py-2 px-4 border-b-4 border-emerald-800 hover:border-emerald-500 rounded">Send me an e-mail!</button>
         </a>
       </div>
       <div className="mt-8 flex items-center flex-wrap   gap-8 justify-center">

@@ -8,7 +8,7 @@ interface Props {
 const ProjectCard = ({ title, link, img }: Props) => {
   return (
     <a href={link} target="_blank">
-      <div className="w-full h-55 border-[1px] border-blue-600 overflow-hidden relative rounded-lg group">
+      <div className="w-full h-55 border-[1px] border-emerald-700 overflow-hidden relative rounded-lg group">
         <Image
           className="object-cover translate-y-0 transition-transform duration-[3s]"
           width={350}
@@ -16,7 +16,7 @@ const ProjectCard = ({ title, link, img }: Props) => {
           src={img}
           alt="FLolang"
         />
-        <p className="absolute bottom-0 w-full py-1 bg-blue-600 text-white text-center font-semibold duration-300">
+        <p className="absolute bottom-0 w-full py-1 bg-emerald-700 text-white text-center font-semibold duration-300">
           {title}
         </p>
       </div>
