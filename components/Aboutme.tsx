@@ -13,7 +13,7 @@ const Aboutme = () => {
         </p>
         <p>
           Recent Activity: <br />
-            - Built a language learning iOS and Web app which sparked interest with YCombinator. <br />
+            - Built a language learning iOS and Web app which sparked interest with YCombinator (top 10%). <br />
             - Built a soccer event tracking app, currenly being used by the head coach of The University of Arkansas Soccer team. <br />
             - Working on Simulation Software for the Mars Ascent Vehicle at NASA. <br />
         </p>
