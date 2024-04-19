@@ -10,13 +10,6 @@ import UARK from "../public/img/experiences/UA_Logo.png";
 import FLOLANG from "../public/img/experiences/flolang_logo.jpg";
 import UOM from "../public/img/experiences/uom_logo.png";
 
-// const images = [
-//   NASA,
-//   JBHUNT,
-//   FLOLANG,
-//   UARK,
-//   UOM,
-// ];
 
 const Experience = () => {
   return (
@@ -34,7 +27,7 @@ const Experience = () => {
               - Co-authored a paper for AIAA Space Flight Conference<br />
               - Panelist member on a podcast discussing the co-op internship program at NASA<br />
             </div>
-            <hr/>
+            <hr className="bg-primary-content"/>
           </li>
           <li>
             <hr />
@@ -47,7 +40,7 @@ const Experience = () => {
               - Backend RESTful Web Application Development<br />
               - Team Lead for Interns<br />
             </div>
-            <hr />
+            <hr className="bg-primary-content" />
           </li>
           <li>
             <hr />
@@ -60,7 +53,7 @@ const Experience = () => {
               - Language Learning app and website with GPT Chatbot<br />
               - Interest shown by YCombinator<br />
             </div>
-            <hr />
+            <hr className="bg-primary-content" />
           </li>
           <li>
             <hr />
@@ -72,7 +65,7 @@ const Experience = () => {
               <div className="text-2xl font-black">University of Arkansas</div>
               - Abusive Language Detection using AI/ML Models<br />
             </div>
-            <hr />
+            <hr className="bg-primary-content" />
           </li>
           <li>
             <hr />

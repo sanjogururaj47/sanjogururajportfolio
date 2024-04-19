@@ -8,7 +8,7 @@ import Skills from "@/components/Skills";
 
 export default function Home() {
   return (
-    <main className="w-full bg-stone-300 text-slate-300 dark:bg-stone-750 dark:text-slate-900 px-4">
+    <main className="w-full bg-base-300 text-base-content px-4">
       <div className="max-w-screen-xl mx-auto lg:pt-10">
         <Banner />
         <Aboutme />
