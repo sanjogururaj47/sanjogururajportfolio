@@ -15,11 +15,11 @@ const Banner = () => {
       {/* Description */}
       <div className="w-3/4 flex flex-col items-center md:items-start    gap-2">
         <h1 className="text-5xl font-bold base-content">Sanjog Gururaj</h1>
-        <h3 className="text-xl md:text-2xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-secondary via-accent to-primary tracking-wide">
+        <h3 className="text-2xl md:text-2xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-secondary via-accent to-primary tracking-wide">
           Computer Engineer | Full Stack Developer | AI Enthusiast
         </h3>
         <p className="text-base tracking-wide text-center md:text-left">
-          Curious about everything. Only know somethings. Will learn anything.
+          Curious about everything. Only know some things. Will learn anything.
         </p>
       </div>
     </div>

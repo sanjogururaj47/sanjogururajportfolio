@@ -1,9 +1,7 @@
-import { ReactNode } from "react";
-
 interface Props {
   title: string;
-  subTitle: string;
-  icon: ReactNode;
+  text: string;
+  icon: img;
 }
 
 const ExperienceCard = ({ title, subTitle, icon }: Props) => {

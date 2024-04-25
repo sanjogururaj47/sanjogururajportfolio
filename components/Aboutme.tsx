@@ -7,7 +7,7 @@ const Aboutme = () => {
       <Title text="About Me" icon={<SiInformatica />} />
       <div className="text-lg tracking-wide flex flex-col gap-6">
         <p>
-          Employed as a Computer Engineer at NASA. Freelance as a Full Stack Developer. Curious about AI and its applications. Passionate about all three.<br /> 
+          Employed as a Computer Engineer at NASA. Freelance as a Full Stack Developer. Curious about AI, Crypto and their applications. Passionate about all three.<br /> 
           With over 2 years of experience in Software Engineering, I'm proficient in frameworks for web development and building small to medium-scale
           software.
         </p>
@@ -20,7 +20,7 @@ const Aboutme = () => {
         <p>
           But enough about software; life is about balance. Outside of "work" (which I do not consider work), I love playing sports and staying active. <br />
           I generally play soccer, golf, and enjoy biking. I also love cars (and my gf!). <br />
-          I enjoy reading books which spark my curiousity, currently reading "Skin In The Game" by Nassim Taleb and "Zero to One" by Peter Thiel.
+          I enjoy reading books which spark my curiousity, currently reading "Antifragile" by Nassim Taleb and "Zero to One" by Peter Thiel.
         </p>
         <p>
           Always eager to learn the next thing, staying on the bleeding edge of technology. <br />
