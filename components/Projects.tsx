@@ -24,7 +24,7 @@ const Projects = () => {
         <ProjectCard
           img={MachineLearningNASAResearch.src}
           title="Solar Sail Reconstruction using ML"
-          link="https://ntrs.nasa.gov/api/citations/20230000419/downloads/A%20Machine%20Learning%20Model%20for%20Solar%20Sail%20Reconstruction%20Using%20Flight%20Data.pdf"
+          link="https://ntrs.nasa.gov/citations/20230000360"
         />
       </div>
     </div>

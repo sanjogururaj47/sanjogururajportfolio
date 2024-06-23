@@ -18,7 +18,7 @@ const Experience = () => {
         <ul className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical">
           <li>
             <div className="timeline-middle">
-              <img src={NASA.src} href={"www.nasa.gov"} alt="NASA Logo" className="h-15 w-20 hover:scale-110 transition-all duration-500 cursor-pointer"/>
+              <img src={NASA.src} alt="NASA Logo" className="h-15 w-20 hover:scale-110 transition-all duration-500 cursor-pointer"/>
             </div>
             <div className="timeline-start md:text-end mb-10">
               <time className="font-mono italic">2021-Present</time>
