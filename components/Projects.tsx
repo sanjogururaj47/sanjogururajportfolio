@@ -2,8 +2,8 @@ import { FaProjectDiagram } from "react-icons/fa";
 import Title from "./Title";
 import flolang from "../public/img/projects/flolang.jpg";
 import soccerEventTracker from "../public/img/projects/soccer-event-tracker.jpg";
-import noorShop from "../public/img/projects/noorShop.webp";
 import Image from "next/image";
+import MachineLearningNASAResearch from "../public/img/involvements/nasa-ml-solar-sail.jpg";
 import ProjectCard from "./ProjectCard";
 
 const Projects = () => {
@@ -20,6 +20,11 @@ const Projects = () => {
           img={soccerEventTracker.src}
           title="Soccer Event Tracker"
           link="https://soccer-event-tracker-uark.web.app"
+        />
+        <ProjectCard
+          img={MachineLearningNASAResearch.src}
+          title="Solar Sail Reconstruction using ML"
+          link="https://ntrs.nasa.gov/api/citations/20230000419/downloads/A%20Machine%20Learning%20Model%20for%20Solar%20Sail%20Reconstruction%20Using%20Flight%20Data.pdf"
         />
       </div>
     </div>

@@ -19,8 +19,8 @@ const Aboutme = () => {
         </p>
         <p>
           But enough about software; life is about balance. Outside of "work" (which I do not consider work), I love playing sports and staying active. <br />
-          I generally play soccer, golf, and enjoy biking. I also love cars (and my gf!). <br />
-          I enjoy reading books which spark my curiousity, currently reading "Antifragile" by Nassim Taleb and "Zero to One" by Peter Thiel.
+          I generally play soccer, golf, and enjoy biking. I also love cars. <br />
+          I enjoy reading books which spark my curiousity, currently reading "Fooled by randomness" by Nassim Taleb and "Zero to One" by Peter Thiel.
         </p>
         <p>
           Always eager to learn the next thing, staying on the bleeding edge of technology. <br />
