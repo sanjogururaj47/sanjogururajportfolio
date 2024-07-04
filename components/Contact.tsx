@@ -9,7 +9,7 @@ const Contact = () => {
         <p className="text-lg tracking-wide font-medium text-center">
           Always open to discussions, recommendations, or criticism.
         </p>
-        <a href="mailto:sanjog.gururaj2@gmail.com">
+        <a href="mailto:email@sanjoggururaj.com">
           <button className="bg-primary hover:bg-secondary text-secondary-content font-bold py-2 px-4 border-b-4 border-secondary rounded">Send me an e-mail!</button>
         </a>
       </div>
