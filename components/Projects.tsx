@@ -1,6 +1,7 @@
 import { FaProjectDiagram } from "react-icons/fa";
 import Title from "./Title";
 import flolang from "../public/img/projects/flolang.jpg";
+import automaticshorts from "../public/img/projects/automaticshorts.jpg";
 import soccerEventTracker from "../public/img/projects/soccer-event-tracker.jpg";
 import Image from "next/image";
 import MachineLearningNASAResearch from "../public/img/involvements/nasa-ml-solar-sail.jpg";
@@ -11,6 +12,11 @@ const Projects = () => {
     <div className="wrapper">
       <Title text="Projects" icon={<FaProjectDiagram />} />
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 place-items-center">
+        <ProjectCard
+          img={automaticshorts.src}
+          title="Automatic Shorts"
+          link="https://www.automaticshorts.com"
+        />
         <ProjectCard
           img={flolang.src}
           title="Flolang"
