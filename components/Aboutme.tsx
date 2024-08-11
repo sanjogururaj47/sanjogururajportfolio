@@ -13,6 +13,7 @@ const Aboutme = () => {
         </p>
         <p>
           Recent Activities: <br />
+            - Currenly running automaticshorts.com which is an AI short video generator and runs social media channels. <br />
             - Built a language learning iOS and Web app which sparked interest with YCombinator (top 10%). <br />
             - Developed a soccer event tracking app, currently utilized by the head coach of The University of Arkansas Soccer team. <br />
             - Currently working on Simulation Software for the Mars Ascent Vehicle at NASA. <br />
