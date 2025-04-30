@@ -39,7 +39,7 @@ export default function Share() {
             />
             <SocialLink 
               title="Twitter" 
-              link="https://twitter.com/sanjogururaj47" 
+              link="https://twitter.com/gururajsanjog" 
             />
           </div>
         </div>
