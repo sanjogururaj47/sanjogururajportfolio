@@ -3,6 +3,7 @@ import Title from "./Title";
 import flolang from "../public/img/projects/flolang.jpg";
 import automaticshorts from "../public/img/projects/automaticshorts.jpg";
 import soccerEventTracker from "../public/img/projects/soccer-event-tracker.jpg";
+import nexus from "../public/img/projects/nexus.webp";
 import Image from "next/image";
 import MachineLearningNASAResearch from "../public/img/involvements/nasa-ml-solar-sail.jpg";
 import ProjectCard from "./ProjectCard";
@@ -12,6 +13,11 @@ const Projects = () => {
     <div className="wrapper">
       <Title text="Projects" icon={<FaProjectDiagram />} />
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 place-items-center">
+        <ProjectCard
+          img={nexus.src}
+          title="Nexus"
+          link="https://www.nexus-taupe-two.vercel.app"
+        />
         <ProjectCard
           img={automaticshorts.src}
           title="Automatic Shorts"

@@ -15,7 +15,7 @@ const Contact = () => {
       </div>
       <div className="mt-8 flex items-center flex-wrap   gap-8 justify-center">
         <SocialLink title="Github" link="https://github.com/sanjogururaj47" />
-        <SocialLink title="Linkedin" link="https://www.linkedin.com/in/sanjog-gururaj/"
+        <SocialLink title="LinkedIn" link="https://www.linkedin.com/in/sanjog-gururaj/"
         />
       </div>
     </div>

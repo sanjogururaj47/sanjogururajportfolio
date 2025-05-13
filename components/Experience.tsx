@@ -20,8 +20,21 @@ const Experience = () => {
             <div className="timeline-middle">
               <img src={NASA.src} alt="NASA Logo" className="h-15 w-20 hover:scale-110 transition-all duration-500 cursor-pointer"/>
             </div>
+            <div className="timeline-end mb-10">
+              <time className="font-mono italic">2024-Present</time>
+              <div className="text-2xl font-black">Deloitte</div>
+              - Design, develop, demo, and implement new features on an Integrated Eligibility System built using Java. <br />
+              - Translated business requirements into technical solutions by collaborating across engineering and product teams. <br />
+              - Led the creation and delivery of presentation materials for a $19M technical procurement initiative. <br />
+            </div>
+            <hr className="bg-primary-content"/>
+          </li>
+          <li>
+            <div className="timeline-middle">
+              <img src={NASA.src} alt="NASA Logo" className="h-15 w-20 hover:scale-110 transition-all duration-500 cursor-pointer"/>
+            </div>
             <div className="timeline-start md:text-end mb-10">
-              <time className="font-mono italic">2021-Present</time>
+              <time className="font-mono italic">2021-2024</time>
               <div className="text-2xl font-black">NASA Marshall Space Flight Center</div>
               - Building Simulation Software (C/C++) for the Mars Ascent Vehicle Mission <br />
               - Co-authored a paper for AIAA Space Flight Conference<br />
